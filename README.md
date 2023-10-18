@@ -12,3 +12,10 @@ Each sample (each row) corresponds to a different speaker, and contains 12 featu
 The features do not have any particular interpretation. 
 Features are continuous values that represent a point in the mdimensional embedding space.
 The embeddings have already been computed.
+
+## Contributors
+
+This project was developed by the following group members as part of the Machine Learning and Pattern Recognition at Politecnico di Torino for the academic year 2021/2022:
+
+- Davide Aiello
+- Giulia Mannaioli
